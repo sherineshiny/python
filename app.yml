@@ -1,0 +1,7 @@
+runtime:python37
+api_verision:1
+threadsafe:false
+
+handlers:
+-url:/
+script:hello.py
